@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @wordsandnotes
-- 👀 I’m interested in music (I am a professionnal musician and composer) and linguistics.
-- 🌱 I’m currently learning Python. I am studying ancient greek and latin at Toulouse's University in first grade and Russian language at Lille's University in Master Degree.
-- 📫 How to reach me : remi.collin@protonmail.com
+- 👋 Salut ! Je suis @wordsandnotes
+- 👀 Je suis musicien et compositeur professionnel. Je m'intéresse de près à la linguistique, en particulier à l'étymologie, à l'évolution des langues, à la lexicologie et à la sémiotique. 
+- 🌱 J'apprends actuellement le Python et le XML. Je suis étudiant en M1 à Lille en LLCER Russe, en L1 de lettres classiques à Toulouse et je suis licencié en Sciences du langage et en musicologie. 
+- 📫 Pour m'écrire, c'est très simple : remi.collin@protonmail.com
 
